@@ -31,3 +31,4 @@ api.tx.balances
   .transfer('5C5555yEXUcmEJ5kkcCMvdZjUo7NGJiQJMS7vZXEeoMhj3VQ', 123456)
   .signAndSend(SENDER, { signer: injector.signer }, (status) => { ... });
 ```
+@polkadot/extension-dapp
